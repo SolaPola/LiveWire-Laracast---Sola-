@@ -31,7 +31,7 @@
                     </header>
 
                     <main class="mt-6">
-                        <div>Hello livewire</div>
+                     <livewire:greeter>
                     </main>
 
                     <footer class="py-16 text-center text-sm text-black">
