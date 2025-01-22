@@ -18,7 +18,7 @@ class Greeter extends Component
         $this->reset('greetingMessage');
 
         // $this->validate();
-
+#ep6
 
         $this->greetingMessage = "{$this->greeting}, {$this->name}!";
     }
